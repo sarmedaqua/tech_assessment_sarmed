@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-07-28 at 22 58 25_b54bed48](https://github.com/user-attachments/assets/8173b72e-1fca-4a8d-adbb-533cd3eea110)
+![Flutter_Tech_Assessment-Sarmed](https://github.com/user-attachments/assets/74e5c67b-205d-4783-8012-b4c8502f7420)
 
 Freeze Animation
 ![WhatsApp Image 2024-07-28 at 22 58 25_16583aa1](https://github.com/user-attachments/assets/5b9a2d8c-ffa4-4fcd-a0ed-abccc285202e)
